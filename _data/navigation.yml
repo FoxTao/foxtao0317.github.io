@@ -2,6 +2,9 @@
 main:
   - title: "首页"
     url: /#首页
+
+ - title: "Grade"
+   url: /Grade/
     
   - title: "Projects"
     url: /Projects/
